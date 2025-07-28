@@ -104,7 +104,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["xxxxsai2.vicp.cc:7012"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["xxxxsai2.vicp.cc"];
 pub const RS_PUB_KEY: &str = "pkoknk12345";
 
 pub const RENDEZVOUS_PORT: i32 = 7012;
